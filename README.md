@@ -185,3 +185,7 @@ CI 在 Linux、macOS、Windows 上检查 Node 22/24，测试 Playwright Chromium
 ## 许可证
 
 这是非官方豆瓣工具，采用 [MIT License](LICENSE)。问题和复现步骤请提交到 [Issues](https://github.com/AaronZ345/douban-cli/issues)。
+
+## 致谢
+
+Built on [Marvae/douban-cli](https://github.com/Marvae/douban-cli) by [@Marvae](https://github.com/Marvae). 感谢原作者的开源贡献。
